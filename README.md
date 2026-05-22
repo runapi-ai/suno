@@ -1,6 +1,23 @@
-# Suno AI API Skill for RunAPI
+<p align="center">
+  <a href="https://github.com/runapi-ai/suno">
+    <h3 align="center">Suno AI API Skill for RunAPI</h3>
+  </a>
+</p>
+
+<p align="center">
+  Install this agent skill, inspect Suno fields, then run jobs through the RunAPI CLI.
+</p>
+
+<p align="center">
+  <a href="https://runapi.ai/models/suno.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/suno"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/suno-sdk"><strong>SDK</strong></a>
+</p>
+
+<div align="center">
 
 [![skills.sh](https://skills.sh/b/runapi-ai/suno)](https://skills.sh/runapi-ai/suno)
+
+</div>
+<br/>
 
 Generate music, lyrics, stems, covers, and music videos with the Suno SDK. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Suno through RunAPI.
 
