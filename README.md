@@ -9,12 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://runapi.ai/models/suno.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/suno"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/suno-sdk"><strong>SDK</strong></a>
+  <a href="https://runapi.ai/models/suno"><strong>Model Reference</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/suno-sdk"><strong>SDK</strong></a>
 </p>
 
 <div align="center">
 
-[![skills.sh](https://skills.sh/b/runapi-ai/suno)](https://skills.sh/runapi-ai/suno)
+[![skills.sh](https://www.skills.sh/b/runapi-ai/suno)](https://www.skills.sh/runapi-ai/suno/suno)
+[![ClawHub](https://img.shields.io/badge/ClawHub-runapi--suno-111827)](https://clawhub.ai/runapi-ai/runapi-suno)
+[![Model Reference](https://img.shields.io/badge/Model%20Reference-runapi.ai-0f766e)](https://runapi.ai/models/suno)
+[![RunAPI CLI](https://img.shields.io/badge/RunAPI-CLI-111827)](https://github.com/runapi-ai/cli)
+[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-skills.sh-2563eb)](https://www.skills.sh/runapi-ai)
+[![License](https://img.shields.io/github/license/runapi-ai/suno)](https://github.com/runapi-ai/suno/blob/main/LICENSE)
 
 </div>
 <br/>
@@ -52,7 +57,7 @@ const result = await client.textToMusic.run({
   custom_mode: false,
   instrumental: false,
   prompt: 'A chill lo-fi beat with soft vocals',
-  model: 'V5',
+  model: 'suno-v5',
 });
 const audioUrl = result.audios[0].audio_url;
 ```
