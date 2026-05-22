@@ -1,5 +1,7 @@
 # Suno AI API Skill for RunAPI
 
+[![skills.sh](https://skills.sh/b/runapi-ai/suno)](https://skills.sh/runapi-ai/suno)
+
 Generate music, lyrics, stems, covers, and music videos with the Suno SDK. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Suno through RunAPI.
 
 The canonical agent file is `skills/suno/SKILL.md`.
