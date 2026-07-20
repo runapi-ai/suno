@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.2.9](https://github.com/runapi-ai/suno/releases/tag/v0.2.9) - 2026-07-20
+
+### Added
+- Document advanced stem separation mode, supported stem names, and typed response handling.
+
+
 ## [v0.2.8](https://github.com/runapi-ai/suno/releases/tag/v0.2.8) - 2026-06-18
 
 ### Changed
