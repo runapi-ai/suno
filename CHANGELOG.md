@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.3.0](https://github.com/runapi-ai/suno/releases/tag/v0.3.0) - 2026-07-21
+
+### Added
+- Add lyrics generation query and lyric blending guidance, examples, and pricing links.
+
+
 ## [v0.2.9](https://github.com/runapi-ai/suno/releases/tag/v0.2.9) - 2026-07-20
 
 ### Added
