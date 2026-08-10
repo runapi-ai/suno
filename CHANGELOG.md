@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.4.0](https://github.com/runapi-ai/suno/releases/tag/v0.4.0) - 2026-08-10
+
+### Added
+- Add CLI guidance for creating new music from reference audio URLs.
+
+
 ## [v0.3.0](https://github.com/runapi-ai/suno/releases/tag/v0.3.0) - 2026-07-21
 
 ### Added
