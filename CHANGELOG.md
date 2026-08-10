@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.4.1](https://github.com/runapi-ai/suno/releases/tag/v0.4.1) - 2026-08-10
+
+### Changed
+- Complete marketplace distribution for the RunAPI Suno skill.
+
+
 ## [v0.4.0](https://github.com/runapi-ai/suno/releases/tag/v0.4.0) - 2026-08-10
 
 ### Added
