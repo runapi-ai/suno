@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.4.2](https://github.com/runapi-ai/suno/releases/tag/v0.4.2) - 2026-08-12
+
+### Changed
+- Generate the suno skill from the shared RunAPI recipe with contract-discovered request rules and task behavior, direct local media inputs, complete result verification, and bounded recovery.
+
+
 ## [v0.4.1](https://github.com/runapi-ai/suno/releases/tag/v0.4.1) - 2026-08-10
 
 ### Changed
