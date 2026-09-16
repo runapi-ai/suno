@@ -1,5 +1,14 @@
 # Changelog
 
+## [v0.4.3](https://github.com/runapi-ai/suno/releases/tag/v0.4.3) - 2026-09-16
+
+### Added
+- Document Suno V6 model variants and their supported operations.
+
+### Changed
+- Recommend canonical Voice handles for same-channel Suno v5.5 music generation while retaining legacy workflow compatibility.
+
+
 ## [v0.4.2](https://github.com/runapi-ai/suno/releases/tag/v0.4.2) - 2026-08-12
 
 ### Changed
